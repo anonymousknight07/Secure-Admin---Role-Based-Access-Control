@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/56b5a043-67ce-4d39-bb0b-fa232b047300)
 # Secure Admin - Role-Based Access Control (RBAC) Dashboard
 
 Secure Admin is a **Role-Based Access Control (RBAC)** user interface designed to manage users, roles, and permissions dynamically. It showcases a secure, functional, and visually appealing dashboard with dark and light themes. The project includes user and role management, permission handling, and dynamic visualizations for system monitoring.
@@ -97,6 +98,23 @@ npm run dev
 - Users Tab: Manage users and their associated roles.
 - Roles Tab: Define and edit roles with permissions.
 - Permissions Tab: Assign or update permissions for roles.
+
+## Screenshots: 
+### Login page :
+![image](https://github.com/user-attachments/assets/4b4a8ba5-2d1c-47a5-bd35-75aaae71740f)
+
+### Dashboard :
+![DarkTheme](https://github.com/user-attachments/assets/308b3c20-e8d8-4c8b-bcba-b17330c5df49)
+![LightTheme](https://github.com/user-attachments/assets/01de087d-2df8-4101-a053-4130a6beea26)
+
+### User management :
+![image](https://github.com/user-attachments/assets/d445d346-fc33-4cf4-9f83-6c45d27a91a6)
+
+### Role management :
+![image](https://github.com/user-attachments/assets/f1cdc46f-2070-4020-b191-59f45a7e3f65)
+
+### Permission management:
+![image](https://github.com/user-attachments/assets/9843d404-48fe-4371-b2f3-2fde1104bbde)
 
 ## Folder Structure
 
