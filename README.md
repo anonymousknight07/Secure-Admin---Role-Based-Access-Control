@@ -118,7 +118,7 @@ src/
 - Tailwind CSS for rapid and modern styling.
 
 ## Contact
-For questions or support, feel free to reach out at https://x.com/akshath_pandey.
+For questions or support, feel free to reach out at ![X](https://x.com/akshath_pandey).
 
 
 
