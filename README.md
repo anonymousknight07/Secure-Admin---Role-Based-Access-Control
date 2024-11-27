@@ -72,8 +72,8 @@ Ensure you have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/secure-admin.git
-   cd secure-admin
+   git clone https://github.com/anonymousknight07/Secure-Admin---Role-Based-Access-Control.git
+  
 
 2. Install dependencies:
 ```bash
